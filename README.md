@@ -1,9 +1,10 @@
 ### Hi, I'm a web developer from Novi Sad, Serbia.
 
-- :books: I'm a final year student at the Faculty of Technical Sciences, University of Novi Sad
-- 🌱 I’m available for a student internship
+- :books: I'm a final year student at the Faculty of Technical Sciences, University of Novi Sad. I have completed all of my exams and I'm currently working on my bachelor's paper.
+- 🌱 I’m available for a junior position or an internship
 - 📫 How to reach me: vojinb111@gmail.com
-- :page_facing_up: Learn more about me: [Vojin_Bjelica_CV.pdf](https://github.com/VojinBjelica/VojinBjelica/files/11051078/Vojin_Bjelica_CV.pdf)
+- :page_facing_up: Learn more about me: [Vojin_Bjelica_CV.pdf](https://github.com/VojinBjelica/VojinBjelica/files/12750651/Vojin_Bjelica_CV.pdf)
+
 
 
 
